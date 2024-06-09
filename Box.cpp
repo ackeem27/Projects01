@@ -1,4 +1,3 @@
-
 #include "Box.hpp"
 
 Box::Box() {
