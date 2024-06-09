@@ -1,3 +1,4 @@
+
 #include "Area.hpp"
 
 float Area::calculateArea(const shapes::Square& square) {
